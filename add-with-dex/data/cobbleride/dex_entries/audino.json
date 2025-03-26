@@ -1,0 +1,15 @@
+{
+    "id": "cobblemon:audino",
+    "speciesId": "cobblemon:audino",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
