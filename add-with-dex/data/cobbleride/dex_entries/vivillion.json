@@ -1,0 +1,15 @@
+{
+    "id": "cobblemon:vivillion",
+    "speciesId": "cobblemon:vivillion",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
