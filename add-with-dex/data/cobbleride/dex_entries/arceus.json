@@ -1,0 +1,15 @@
+{
+    "id": "cobblemon:arceus",
+    "speciesId": "cobblemon:arceus",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
