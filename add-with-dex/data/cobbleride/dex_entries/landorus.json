@@ -1,0 +1,15 @@
+{
+    "id": "cobblemon:landorus",
+    "speciesId": "cobblemon:landorus",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
