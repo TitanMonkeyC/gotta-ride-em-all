@@ -1,0 +1,15 @@
+{
+    "id": "cobblemon:alakazam",
+    "speciesId": "cobblemon:alakazam",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
