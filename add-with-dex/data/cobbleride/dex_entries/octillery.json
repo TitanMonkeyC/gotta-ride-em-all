@@ -1,0 +1,15 @@
+{
+    "id": "cobblemon:otillery",
+    "speciesId": "cobblemon:otillery",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
