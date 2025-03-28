@@ -1,0 +1,15 @@
+{
+    "id": "cobblemon:zacian",
+    "speciesId": "cobblemon:zacian",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
