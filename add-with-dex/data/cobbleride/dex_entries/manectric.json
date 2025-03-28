@@ -1,0 +1,15 @@
+{
+    "id": "cobblemon:manectric",
+    "speciesId": "cobblemon:manectric",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
