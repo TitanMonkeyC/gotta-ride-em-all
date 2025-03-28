@@ -1,0 +1,15 @@
+{
+    "id": "cobblemon:seismitoed",
+    "speciesId": "cobblemon:seismitoed",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }

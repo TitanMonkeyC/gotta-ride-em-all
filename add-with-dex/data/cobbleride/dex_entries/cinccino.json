@@ -1,0 +1,15 @@
+{
+    "id": "cobblemon:cincinno",
+    "speciesId": "cobblemon:cincinno",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
