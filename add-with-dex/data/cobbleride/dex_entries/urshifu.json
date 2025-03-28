@@ -1,0 +1,15 @@
+{
+    "id": "cobblemon:urshifu",
+    "speciesId": "cobblemon:urshifu",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
